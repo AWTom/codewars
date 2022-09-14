@@ -6,6 +6,7 @@ Return an array, where the first element is the count of positives numbers and t
 If the input is an empty array or is null, return an empty array.
 */
 
+// https://www.codewars.com/kata/576bb71bbbcf0951d5000044/
 // https://www.codewars.com/kata/reviews/61155e7fc1b0460001494db6/groups/631fea34d663cf0001afbd32
 
 package kata
